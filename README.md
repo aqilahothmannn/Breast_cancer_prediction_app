@@ -1,2 +1,6 @@
-# Breast_cancer_prediction_app
-An interactive web app to predict breast cancer (malignant or benign) based on medical features, built with Gradio and Scikit-learn.
+---
+title: breastcancer
+app_file: app.py
+sdk: gradio
+sdk_version: 6.12.0
+---
